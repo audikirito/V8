@@ -1,0 +1,60 @@
+{
+  "ownerNumber": "62895340684706",
+  "botName": "Arulbot-MDོ",
+  "ownerName": "ᴹᴿ᭄ Arulོ ×፝֟͜×",
+  "sessionName": "session",
+  "footer": "ᴹᴿ᭄ Arulོ ×፝֟͜×",
+  "region": "Indonesia",
+  "respon": "hallo",
+  "limit": 7,
+  "keyOpenAI": "ISI_APIKEY_OPENAI_DISINI",
+  "button": {
+    "broadcast": {
+      "button": "Menu",
+      "respon": ".menu",
+      "footer": "© broadcast"
+    },
+    "home": {
+      "button_satu": "Owner",
+      "respon_satu": ".owner",
+      "button_dua": "Menu",
+      "respon_dua": ".menu"
+    },
+    "allmenu": {
+      "button_satu": "Owner",
+      "respon_satu": ".owner",
+      "button_dua": "Dashboard",
+      "respon_dua": ".dashboard",
+      "button_tiga": "Command",
+      "respon_tiga": ".command"
+    },
+    "tes": {
+      "button": "Menu",
+      "respon": ".allmenu"
+    }
+  },
+  "group": {
+    "judul": "𝕬𝖗𝖚𝖑 𝕭𝖔𝖙𝖟",
+    "link": "https://chat.whatsapp.com/DJVpD9p2HZy1IjD6RT7LMG"
+  },
+  "sticker": {
+    "packname": "\"Arulbot-Md\"\n\"Bot WhatsApp Multi Device\"\n\"owner\": \"62895340684706\"\n\"tiktok\": \"sabun_boy\"",
+    "author": "'A'\n'R'\n'U'\n'L'"
+  },
+  "buttonEmoji": {
+    "owner": "🙍‍♂️",
+    "owner2": "👤",
+    "donasi": "🎂",
+    "menu": "🎭",
+    "listMenu": "📖",
+    "truth": "⭕",
+    "dare": "😏",
+    "ajakTeman": "🔍"
+  },
+  "mediaSosial": {
+    "instagram": "https://www.instagram.com/sahrulilham_09",
+    "tiktok": "https://tiktok.com/@sabun_boy",
+    "github": "https://github.com/Arulllllllllllll",
+    "email": "zazilong0@gmail.com"
+  }
+}
