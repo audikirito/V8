@@ -1368,19 +1368,19 @@ ke owner agar bisa di masukkan ke list donasi 😊
 
 Thanks!
 
-• Tri : 0896-5233-3947
-• Dana : 0895-3406-84706
-• Saweria : https://saweria.co/arul09`
+• axis : 0838-9648-0283
+• Dana : 0838-9648-0283
+• Saweria : https://saweria.co/
 }
 
 exports.source = () =>{
 return`⬡─〔  Source Code  〕─⬡
 
 Github:
-https://tinyurl.com/2krqs7yy
+
 
 Mediafire:
-https://tinyurl.com/2ks5mnum
+
 `
 }
 
@@ -1404,8 +1404,8 @@ return`╭─❒ *Sewa Bot Ke Grup*
 ╰──────────┈ ⳻⳻
 
 ╭─❒ *Payment*
-├ Dana : 0895-3406-84706
-├ Tri : 0896-5233-3947
+├ Dana : 0838-9648-0283
+├ Tri : 0838-9648-0283
 ╰──────────┈ ⳻⳻
 
 ╭─❒ *Contact Owner*
@@ -1428,8 +1428,8 @@ return`╭─❒ *Paket Premium*
 ╰──────────┈ ⳻⳻
 
 ╭─❒ *Payment*
-├ Dana : 0895-3406-84706
-├ Tri : 0896-5233-3947
+├ Dana : 0838-9648-0283
+├ Tri : 0838-9648-0283
 ╰──────────┈ ⳻⳻
 
 Tertarik? hubungi owner 
